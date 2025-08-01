@@ -59,6 +59,96 @@
       "title": "Watch",
       "image": "https://plus.unsplash.com/premium_photo-1682125779534-76c5debea767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
       "prompt": "Refine the watch with premium materials and a minimalist dial suitable for a luxury brand."
+    },
+    {
+      "title": "Aveda 01",
+      "image": "aveda/01.jpg",
+      "prompt": "Aveda sample image 01"
+    },
+    {
+      "title": "Aveda 02",
+      "image": "aveda/02.jpg",
+      "prompt": "Aveda sample image 02"
+    },
+    {
+      "title": "Aveda 03",
+      "image": "aveda/03.jpg",
+      "prompt": "Aveda sample image 03"
+    },
+    {
+      "title": "Aveda 04",
+      "image": "aveda/04.jpg",
+      "prompt": "Aveda sample image 04"
+    },
+    {
+      "title": "Aveda 05",
+      "image": "aveda/05.jpg",
+      "prompt": "Aveda sample image 05"
+    },
+    {
+      "title": "Aveda 06",
+      "image": "aveda/06.jpg",
+      "prompt": "Aveda sample image 06"
+    },
+    {
+      "title": "Aveda 07",
+      "image": "aveda/07.jpg",
+      "prompt": "Aveda sample image 07"
+    },
+    {
+      "title": "Aveda 08",
+      "image": "aveda/08.jpg",
+      "prompt": "Aveda sample image 08"
+    },
+    {
+      "title": "Aveda 09",
+      "image": "aveda/09.jpg",
+      "prompt": "Aveda sample image 09"
+    },
+    {
+      "title": "Aveda 10",
+      "image": "aveda/10.jpg",.
+      "prompt": "Aveda sample image 10"
+    },
+    {
+      "title": "Aveda 11",
+      "image": "aveda/11.jpg",
+      "prompt": "Aveda sample image 11"
+    },
+    {
+      "title": "Aveda 12",
+      "image": "aveda/12.jpg",
+      "prompt": "Aveda sample image 12"
+    },
+    {
+      "title": "Aveda 13",
+      "image": "aveda/13.jpg",
+      "prompt": "Aveda sample image 13"
+    },
+    {
+      "title": "Aveda 14",
+      "image": "aveda/14.jpg",
+      "prompt": "Aveda sample image 14"
+    },
+    {
+      "title": "Aveda 15",
+      "image": "aveda/15.jpg",
+      "prompt": "Aveda sample image 15"
+    },
+    {
+      "title": "Aveda 16",
+      "image": "aveda/16.jpg",
+      "prompt": "Aveda sample image 16"
+    },
+    {
+      "title": "Aveda 17",
+      "image": "aveda/17.jpg",
+      "prompt": "Aveda sample image 17"
+    },
+    {
+      "title": "Aveda 18",
+      "image": "aveda/18.jpg",
+      "prompt": "Aveda sample image 18"
     }
   ]
 }
