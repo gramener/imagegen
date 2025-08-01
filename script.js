@@ -39,7 +39,7 @@ ui.configBtn.addEventListener("click", async () => {
 
 let baseImage = null;
 let selectedUrl = "";
-const history = [];
+let history = [];
 let loadingTimer;
 
 const msg = () =>
@@ -215,7 +215,7 @@ async function generateImage() {
     addImageCard(url);
     selectedUrl = url;
     baseImage = null;
-    history.push(prompt);
+    history = [prompt];
   } catch (err) {
     card.remove();
     restorePrompt(prompt);
